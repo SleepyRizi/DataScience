@@ -7,4 +7,3 @@
  Uploading my day to day notebooks
 - ✨EDA ✨
 
-#and PDF
